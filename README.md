@@ -5,7 +5,7 @@ tools are not to be misused
 
 ```
 git clone https://github.com/MrSlyker/DevilCam-Termux
-cd DevilCam
+cd DevilCam-Termux
 bash devilcam.sh
 ```
 
