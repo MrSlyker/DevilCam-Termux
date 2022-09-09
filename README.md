@@ -18,6 +18,8 @@ cd DevilCam
 bash devilcam.sh
 ```
 
+Donate : https://saweria.co/slyker
+
 ### Note
 
 if you find an error in the tool please contact me
